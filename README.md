@@ -1,5 +1,7 @@
 Plans géoréférencés de Lauzon et environs en 1864-65
 
+Fonctionne mieux sur un écran d'ordinateur. Pour visionner sur téléphone et tablette, pivoter l'écran à l'horizontale et régler en le mode «Version ordinateur» (Desktop mode).
+
 Source : H.S. Sitwell, Fortification surveys : Plan of Point Levis, Canada East, surveyed in 1864-5, feuillets IV.3, IV.4, IV.7 et IV.8. Domaine public en vertu des lois canadiennes. Disponible à la BAnQ.
 
 Fond de carte OpenStreetMap sous licence ODbL
